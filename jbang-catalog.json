@@ -1,8 +1,8 @@
 {
-  "aliases": {
-    "hello-nbbrd": {
-      "script-ref": "hello_nbbrd.java",
-      "description": "Sandbox - Binaries"
+  "aliases" : {
+    "hello-nbbrd" : {
+      "script-ref" : "hello_nbbrd.java",
+      "description" : "Sandbox - Binaries"
     }
   }
 }
