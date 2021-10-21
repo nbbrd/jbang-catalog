@@ -3,6 +3,10 @@
     "hello-nbbrd" : {
       "script-ref" : "hello_nbbrd.java",
       "description" : "Sandbox - Binaries"
+    },
+    "sdmx-dl" : {
+      "script-ref" : "sdmx_dl.java",
+      "description" : "Download SDMX data - CLI"
     }
   }
 }
