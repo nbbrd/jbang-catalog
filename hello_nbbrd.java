@@ -1,7 +1,7 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 8+
-//DEPS com.github.nbbrd.sandbox:sandbox-cli:2.0.5
-// Generated with JReleaser 0.10.0 at 2022-01-10T15:57:52.187832Z
+//DEPS com.github.nbbrd.sandbox:sandbox-cli:2.1.0
+// Generated with JReleaser 1.0.0 at 2022-04-19T14:29:51.069342546Z
 
 public class hello_nbbrd {
     public static void main(String... args) throws Exception {
