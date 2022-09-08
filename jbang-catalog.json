@@ -7,6 +7,10 @@
     "sdmx-dl" : {
       "script-ref" : "sdmx_dl.java",
       "description" : "Download SDMX data - CLI"
+    },
+    "heylogs" : {
+      "script-ref" : "heylogs.java",
+      "description" : "Keep-a-changelog tool - CLI"
     }
   }
 }
