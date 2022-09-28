@@ -2,7 +2,7 @@
   "aliases" : {
     "hello-nbbrd" : {
       "script-ref" : "hello_nbbrd.java",
-      "description" : "Sandbox - Binaries"
+      "description" : "Sandbox - Bill of Materials"
     },
     "sdmx-dl" : {
       "script-ref" : "sdmx_dl.java",
