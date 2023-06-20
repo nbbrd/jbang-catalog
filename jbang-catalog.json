@@ -10,7 +10,7 @@
     },
     "heylogs" : {
       "script-ref" : "heylogs.java",
-      "description" : "Keep-a-changelog tool - CLI"
+      "description" : "Keep-a-changelog tool - Bill of Materials"
     }
   }
 }
