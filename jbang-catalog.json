@@ -6,7 +6,7 @@
     },
     "sdmx-dl" : {
       "script-ref" : "sdmx_dl.java",
-      "description" : "Download SDMX data - CLI"
+      "description" : "Easily download official statistics"
     },
     "heylogs" : {
       "script-ref" : "heylogs.java",
