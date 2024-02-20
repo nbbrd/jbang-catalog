@@ -11,6 +11,10 @@
     "heylogs" : {
       "script-ref" : "heylogs.java",
       "description" : "Keep-a-changelog tool"
+    },
+    "hello-nbbrd-picocli" : {
+      "script-ref" : "hello_nbbrd_picocli.java",
+      "description" : "Hello NBBRD"
     }
   }
 }
