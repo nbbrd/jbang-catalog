@@ -15,6 +15,10 @@
     "hello-nbbrd-picocli" : {
       "script-ref" : "hello_nbbrd_picocli.java",
       "description" : "Hello NBBRD"
+    },
+    "sasquatch" : {
+      "script-ref" : "sasquatch.java",
+      "description" : "A java reader of SAS datasets - Bill of Materials"
     }
   }
 }
