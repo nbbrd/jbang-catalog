@@ -19,6 +19,10 @@
     "sasquatch" : {
       "script-ref" : "sasquatch.java",
       "description" : "A java reader of SAS datasets - Bill of Materials"
+    },
+    "sasquatchw" : {
+      "script-ref" : "sasquatchw.java",
+      "description" : "A java reader of SAS datasets - Bill of Materials"
     }
   }
 }
