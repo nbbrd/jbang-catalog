@@ -1,7 +1,7 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 8+
-//DEPS com.github.nbbrd.heylogs:heylogs-cli:0.9.2
-// Generated with JReleaser 1.13.1 at 2024-08-30T10:03:44.696282868Z
+//DEPS com.github.nbbrd.heylogs:heylogs-cli:0.9.3
+// Generated with JReleaser 1.16.0 at 2025-02-11T09:51:46.784221403Z
 
 public class heylogs {
     public static void main(String... args) throws Exception {
