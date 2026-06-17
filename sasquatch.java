@@ -1,7 +1,7 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 8+
-//DEPS com.github.nbbrd.sasquatch:sasquatch-cli:1.1.1
-// Generated with JReleaser 1.17.0 at 2025-03-06T10:45:18.748861639Z
+//DEPS com.github.nbbrd.sasquatch:sasquatch-cli:1.1.2
+// Generated with JReleaser 1.24.0 at 2026-06-17T09:01:16.831065288Z
 
 public class sasquatch {
     public static void main(String... args) throws Exception {
